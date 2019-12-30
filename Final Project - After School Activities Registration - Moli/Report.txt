@@ -1,0 +1,14 @@
+Parent: Anh Le
+Student Name: Moli Le
+Resgister in ART :  Individual Tutor. 
+Total Amount: $1000
+
+			===================================*
+
+Parent: Anh Le
+Student Name: Minh Tu
+Resgister in SWIMMING :  Group Class. 
+Total Amount: $700
+
+			===================================*
+

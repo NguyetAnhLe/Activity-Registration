@@ -1,0 +1,15 @@
+﻿  After School Activities Function Definition.cpp
+  After School Activities Registration.cpp
+After School Activities Registration.cpp(55): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+After School Activities Registration.cpp(99): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+After School Activities Registration.cpp(109): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+After School Activities Registration.cpp(159): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+After School Activities Registration.cpp(172): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Validation Function Definition.cpp
+  Generating code
+  229 of 232 functions (98.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Final Project - After School Activities Registration - Moli.vcxproj -> C:\Users\Moli\Desktop\C++\Final Project - After School Activities Registration - Moli\Release\Final Project - After School Activities Registration - Moli.exe
+  Final Project - After School Activities Registration - Moli.vcxproj -> C:\Users\Moli\Desktop\C++\Final Project - After School Activities Registration - Moli\Release\Final Project - After School Activities Registration - Moli.pdb (Full PDB)
